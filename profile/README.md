@@ -22,7 +22,6 @@ DNS и бесплатные SSL. Оплата в рублях, дата-цент
 | **[tatnet-go](https://github.com/tatnet-ru/tatnet-go)** | Go-клиент API, генерируемый из контракта `/v1` |
 | **[tatnet-cloud-controller-manager](https://github.com/tatnet-ru/tatnet-cloud-controller-manager)** | `Service` типа `LoadBalancer` и жизненный цикл узлов в managed Kubernetes |
 | **[tatnet-csi-driver](https://github.com/tatnet-ru/tatnet-csi-driver)** | Блочные тома: PVC поверх дисков платформы |
-| **[libovsdb](https://github.com/tatnet-ru/libovsdb)** | Форк клиента OVSDB с исправлениями гонок при переподключении |
 
 ## Начать
 
